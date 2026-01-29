@@ -1,0 +1,32 @@
+
+.custom-nav {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin: 0;
+  padding: 15px 0;
+}
+
+.custom-nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.mind{
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.motions{
+  display: flex;
+  gap: 70px;
+  margin-left: 60px;
+}
+
+.list img{
+  border-radius: 50%;
+}

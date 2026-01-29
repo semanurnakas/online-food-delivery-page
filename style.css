@@ -1,0 +1,125 @@
+.back{
+    background-color: orangered;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.box1{
+     box-shadow: rgba(14, 63, 126, 0.06) 0px 0px 0px 1px, rgba(42, 51, 70, 0.03) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 2px 2px -1px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.03) 0px 5px 5px -2.5px, rgba(42, 51, 70, 0.03) 0px 10px 10px -5px, rgba(42, 51, 70, 0.03) 0px 24px 24px -8px;
+     width:450px;
+     height: 300px;
+     background-color: white;
+     border-radius: 20px;
+}
+.box2{
+     box-shadow: rgba(14, 63, 126, 0.06) 0px 0px 0px 1px, rgba(42, 51, 70, 0.03) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 2px 2px -1px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.03) 0px 5px 5px -2.5px, rgba(42, 51, 70, 0.03) 0px 10px 10px -5px, rgba(42, 51, 70, 0.03) 0px 24px 24px -8px;
+     width:450px;
+     height: 300px;
+     background-color: white;
+     border-radius: 20px;
+}
+
+.button1{
+    padding: 10px;
+    border-radius: 15px;
+    background-color: orangered;
+    font-weight: medium;
+    font-size: large;
+    border: none;
+    color: white;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.button2{
+    padding: 10px;
+    border-radius: 15px;
+    background-color: orangered;
+    font-weight: medium;
+    font-size: large;
+    border: none;
+    color: white;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+
+//motion1
+.move{
+      position: relative;
+      overflow: hidden;      
+      padding: 10px 0;
+}
+
+.dishes{
+    display: flex;
+    gap: 40px;
+    animation: moveDishes 20s linear infinite;
+    
+}
+.dish{
+      width: 120px;
+      text-align: center;
+      
+    }
+
+ .dish span{
+    margin-top: 8px;
+     font-size: 20px;
+     margin-left: 20px;
+    
+    }   
+
+ @keyframes moveDishes{
+      0%   { 
+        transform: translateX(-50%); 
+    }
+      100% { 
+        transform: translateX(0%); 
+    }
+}   
+
+.dish img{
+    border-radius: 50%;
+}
+
+
+
+//motion2
+.variety{
+      position: relative;
+      overflow: hidden;      
+      padding: 10px 0;
+     
+}
+
+.foods{
+    display: flex;
+    gap: 40px;
+    animation: moveDishe 20s linear infinite;
+    
+}
+.dis span{
+    margin-top: 8px;
+     font-size: 20px;
+     margin-left: 20px;
+}
+.dis{
+      width: 120px;
+      text-align: center;
+      
+    }  
+
+@keyframes moveDishe{
+      0%   { 
+        transform: translateX(0); 
+    }
+      100% { 
+        transform: translateX(-50%); 
+    }
+} 
+
+.dis img{
+    border-radius: 50%;
+}
